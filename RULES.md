@@ -30,7 +30,7 @@ You may take:
 You must:
  - leave (a sign/signs) at the player's base identifying your username (usernames for a group).
 
-PVP
+Attacking players
 -----
 You may attack other players on your own or in groups **under the following conditions**:
  - you found the player fairly, without cheating.
@@ -70,7 +70,7 @@ If you do not understand any of the these rules, have suggestions or require con
 
 Finally
 -----
-All times within these rules are real world, not ingame.
+All times within these rules are real world, not in-game.
 
 These rules are subject to change at any time. If you do not agree to these rules, you may not play on the server.
 
