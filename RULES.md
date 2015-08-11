@@ -47,7 +47,7 @@ You may not setup machines to deliberately lag or slow the server. If there are 
  
 World Border
 -----
-There is a world border with an 1000 block radius centred on spawn. You may not use any means to bypass it.
+There is a world border with a thousand block radius centred on spawn. You may not use any means to bypass it.
 
 Chat
 -----
