@@ -1,0 +1,731 @@
+Fluid,Amount,Empty Container,Empty Container Display Name,Empty Container Item,Filled Container,Filled Container Display Name,Filled Container Item
+adamantine.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@12,Molten Adamantine Bucket,ExtraTiC:extra.bucket
+aerotheum,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.thermalfoundation.bucket@7,Zephyrean Aerotheum Bucket,ThermalFoundation:bucket
+aluminum.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@4,Molten Aluminum Bucket,TConstruct:buckets
+aluminum.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@4,Molten Aluminum Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+aluminumbrass.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@8,Molten Aluminum Brass Bucket,TConstruct:buckets
+aluminumbrass.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@8,Molten Aluminum Brass Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+alumite.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@10,Molten Alumite Bucket,TConstruct:buckets
+alumite.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@10,Molten Alumite Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+ardite.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@6,Molten Ardite Bucket,TConstruct:buckets
+ardite.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@6,Molten Ardite Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+bedrockium.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@19,Molten Bedrockium Bucket,ExtraTiC:extra.bucket
+bioethanol,1000,1xitem.for.waxCapsule@0,Wax Capsule,Forestry:waxCapsule,1xitem.for.waxCapsuleEthanol@0,Ethanol Capsule,Forestry:waxCapsuleEthanol
+bioethanol,1000,1xitem.for.canEmpty@0,Can,Forestry:canEmpty,1xitem.for.canEthanol@0,Ethanol Can,Forestry:canEthanol
+bioethanol,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.for.bucketEthanol@0,Ethanol Bucket,Forestry:bucketEthanol
+bioethanol,1000,1xitem.for.refractoryEmpty@0,Refractory Capsule,Forestry:refractoryEmpty,1xitem.for.refractoryEthanol@0,Ethanol Capsule,Forestry:refractoryEthanol
+biofuel,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.mfr.bucket.biofuel@0,BioFuel Bucket,MineFactoryReloaded:bucket.biofuel
+biomass,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.for.bucketBiomass@0,Biomass Bucket,Forestry:bucketBiomass
+biomass,1000,1xitem.for.waxCapsule@0,Wax Capsule,Forestry:waxCapsule,1xitem.for.waxCapsuleBiomass@0,Biomass Capsule,Forestry:waxCapsuleBiomass
+biomass,1000,1xitem.for.canEmpty@0,Can,Forestry:canEmpty,1xitem.for.canBiomass@0,Biomass Can,Forestry:canBiomass
+biomass,1000,1xitem.for.refractoryEmpty@0,Refractory Capsule,Forestry:refractoryEmpty,1xitem.for.refractoryBiomass@0,Biomass Capsule,Forestry:refractoryBiomass
+blood,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@16,Bucket o' Blood,TConstruct:buckets
+blood,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@16,Clay Bucket o' Blood,IguanaTweaksTConstruct:clayBucketsTinkers
+blutonium.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@17,Molten Blutonium Bucket,ExtraTiC:extra.bucket
+brass.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@11,Molten Brass Bucket,ExtraTiC:extra.bucket
+brine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.BrineBucket@0,Brine Bucket,Mekanism:BrineBucket
+bronze.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@7,Molten Bronze Bucket,TConstruct:buckets
+bronze.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@7,Molten Bronze Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+chocolatemilk,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.mfr.bucket.chocolatemilk@0,Chocolate Milk Bucket,MineFactoryReloaded:bucket.chocolatemilk
+coal,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.thermalfoundation.bucket@6,Liquifacted Coal Bucket,ThermalFoundation:bucket
+cobalt.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@5,Molten Cobalt Bucket,TConstruct:buckets
+cobalt.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@5,Molten Cobalt Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+copper.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@2,Molten Copper Bucket,TConstruct:buckets
+copper.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@2,Molten Copper Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+creosote,1000,1xitem.for.canEmpty@0,Can,Forestry:canEmpty,1xitem.railcraft.fluid.creosote.can@0,Creosote Can,Railcraft:fluid.creosote.can
+creosote,1000,1xitem.glassBottle@0,Glass Bottle,minecraft:glass_bottle,1xitem.railcraft.fluid.creosote.bottle@0,Creosote Bottle,Railcraft:fluid.creosote.bottle
+creosote,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.railcraft.fluid.creosote.bucket@0,Creosote Bucket,Railcraft:fluid.creosote.bucket
+creosote,1000,1xitem.for.refractoryEmpty@0,Refractory Capsule,Forestry:refractoryEmpty,1xitem.railcraft.fluid.creosote.refactory@0,Creosote Capsule,Railcraft:fluid.creosote.refactory
+creosote,1000,1xitem.for.waxCapsule@0,Wax Capsule,Forestry:waxCapsule,1xitem.railcraft.fluid.creosote.wax@0,Creosote Capsule,Railcraft:fluid.creosote.wax
+cryotheum,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.thermalfoundation.bucket@4,Gelid Cryotheum Bucket,ThermalFoundation:bucket
+dark.steel.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@9,Molten Dark Steel Bucket,ExtraTiC:extra.bucket
+electrum.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@22,Molten Electrum Bucket,TConstruct:buckets
+electrum.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@22,Molten Electrum Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+element.ac,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ac
+element.ac,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@89,Actinium,minechem:minechemElement
+element.ag,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ag
+element.ag,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@47,Silver,minechem:minechemElement
+element.al,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.al
+element.al,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@13,Aluminium,minechem:minechemElement
+element.am,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.am
+element.am,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@95,Americium,minechem:minechemElement
+element.ar,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ar
+element.ar,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@18,Argon,minechem:minechemElement
+element.as,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.as
+element.as,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@33,Arsenic,minechem:minechemElement
+element.at,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.at
+element.at,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@85,Astatine,minechem:minechemElement
+element.au,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.au
+element.au,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@79,Gold,minechem:minechemElement
+element.b,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.b
+element.b,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@5,Boron,minechem:minechemElement
+element.ba,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ba
+element.ba,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@56,Barium,minechem:minechemElement
+element.be,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.be
+element.be,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@4,Beryllium,minechem:minechemElement
+element.bh,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.bh
+element.bh,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@107,Bohrium,minechem:minechemElement
+element.bi,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.bi
+element.bi,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@83,Bismuth,minechem:minechemElement
+element.bk,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.bk
+element.bk,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@97,Berkelium,minechem:minechemElement
+element.br,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.br
+element.br,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@35,Bromine,minechem:minechemElement
+element.c,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.c
+element.c,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@6,Carbon,minechem:minechemElement
+element.ca,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ca
+element.ca,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@20,Calcium,minechem:minechemElement
+element.cd,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.cd
+element.cd,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@48,Cadmium,minechem:minechemElement
+element.ce,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ce
+element.ce,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@58,Cerium,minechem:minechemElement
+element.cf,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.cf
+element.cf,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@98,Californium,minechem:minechemElement
+element.cl,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.cl
+element.cl,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@17,Chlorine,minechem:minechemElement
+element.cm,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.cm
+element.cm,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@96,Curium,minechem:minechemElement
+element.cn,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.cn
+element.cn,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@112,Copernicium,minechem:minechemElement
+element.co,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.co
+element.co,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@27,Cobalt,minechem:minechemElement
+element.cr,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.cr
+element.cr,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@24,Chromium,minechem:minechemElement
+element.cs,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.cs
+element.cs,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@55,Caesium,minechem:minechemElement
+element.cu,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.cu
+element.cu,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@29,Copper,minechem:minechemElement
+element.db,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.db
+element.db,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@105,Dubnium,minechem:minechemElement
+element.ds,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ds
+element.ds,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@110,Darmstadtium,minechem:minechemElement
+element.dy,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.dy
+element.dy,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@66,Dysprosium,minechem:minechemElement
+element.er,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.er
+element.er,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@68,Erbium,minechem:minechemElement
+element.es,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.es
+element.es,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@99,Einsteinium,minechem:minechemElement
+element.eu,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.eu
+element.eu,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@63,Europium,minechem:minechemElement
+element.f,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.f
+element.f,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@9,Fluorine,minechem:minechemElement
+element.fe,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.fe
+element.fe,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@26,Iron,minechem:minechemElement
+element.fm,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.fm
+element.fm,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@100,Fermium,minechem:minechemElement
+element.fr,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.fr
+element.fr,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@87,Francium,minechem:minechemElement
+element.ga,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ga
+element.ga,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@31,Gallium,minechem:minechemElement
+element.gd,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.gd
+element.gd,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@64,Gadolinium,minechem:minechemElement
+element.ge,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ge
+element.ge,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@32,Germanium,minechem:minechemElement
+element.h,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.h
+element.h,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@1,Hydrogen,minechem:minechemElement
+element.he,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.he
+element.he,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@2,Helium,minechem:minechemElement
+element.hf,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.hf
+element.hf,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@72,Hafnium,minechem:minechemElement
+element.hg,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.hg
+element.hg,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@80,Mercury,minechem:minechemElement
+element.ho,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ho
+element.ho,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@67,Holmium,minechem:minechemElement
+element.hs,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@108,Hassium,minechem:minechemElement
+element.hs,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.hs
+element.i,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.i
+element.i,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@53,Iodine,minechem:minechemElement
+element.in,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.in
+element.in,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@49,Indium,minechem:minechemElement
+element.ir,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ir
+element.ir,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@77,Iridium,minechem:minechemElement
+element.k,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.k
+element.k,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@19,Potassium,minechem:minechemElement
+element.kr,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.kr
+element.kr,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@36,Krypton,minechem:minechemElement
+element.la,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.la
+element.la,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@57,Lanthanum,minechem:minechemElement
+element.li,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.li
+element.li,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@3,Lithium,minechem:minechemElement
+element.lr,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.lr
+element.lr,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@103,Lawrencium,minechem:minechemElement
+element.lu,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.lu
+element.lu,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@71,Lutetium,minechem:minechemElement
+element.md,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.md
+element.md,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@101,Mendelevium,minechem:minechemElement
+element.mg,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.mg
+element.mg,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@12,Magnesium,minechem:minechemElement
+element.mn,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.mn
+element.mn,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@25,Manganese,minechem:minechemElement
+element.mo,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.mo
+element.mo,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@42,Molybdenum,minechem:minechemElement
+element.mt,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.mt
+element.mt,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@109,Meitnerium,minechem:minechemElement
+element.n,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.n
+element.n,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@7,Nitrogen,minechem:minechemElement
+element.na,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@11,Sodium,minechem:minechemElement
+element.na,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.na
+element.nb,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@41,Niobium,minechem:minechemElement
+element.nb,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.nb
+element.nd,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.nd
+element.nd,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@60,Neodymium,minechem:minechemElement
+element.ne,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ne
+element.ne,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@10,Neon,minechem:minechemElement
+element.ni,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ni
+element.ni,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@28,Nickel,minechem:minechemElement
+element.no,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.no
+element.no,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@102,Nobelium,minechem:minechemElement
+element.np,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.np
+element.np,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@93,Neptunium,minechem:minechemElement
+element.o,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.o
+element.o,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@8,Oxygen,minechem:minechemElement
+element.os,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.os
+element.os,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@76,Osmium,minechem:minechemElement
+element.p,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.p
+element.p,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@15,Phosphorus,minechem:minechemElement
+element.pa,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.pa
+element.pa,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@91,Protactinium,minechem:minechemElement
+element.pb,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.pb
+element.pb,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@82,Lead,minechem:minechemElement
+element.pd,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.pd
+element.pd,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@46,Palladium,minechem:minechemElement
+element.pm,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.pm
+element.pm,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@61,Promethium,minechem:minechemElement
+element.po,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.po
+element.po,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@84,Polonium,minechem:minechemElement
+element.pr,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.pr
+element.pr,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@59,Praseodymium,minechem:minechemElement
+element.pt,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.pt
+element.pt,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@78,Platinum,minechem:minechemElement
+element.pu,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.pu
+element.pu,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@94,Plutonium,minechem:minechemElement
+element.ra,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ra
+element.ra,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@88,Radium,minechem:minechemElement
+element.rb,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.rb
+element.rb,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@37,Rubidium,minechem:minechemElement
+element.re,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.re
+element.re,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@75,Rhenium,minechem:minechemElement
+element.rf,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@104,Rutherfordium,minechem:minechemElement
+element.rf,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.rf
+element.rg,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.rg
+element.rg,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@111,Roentgenium,minechem:minechemElement
+element.rh,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.rh
+element.rh,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@45,Rhodium,minechem:minechemElement
+element.rn,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.rn
+element.rn,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@86,Radon,minechem:minechemElement
+element.ru,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ru
+element.ru,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@44,Ruthenium,minechem:minechemElement
+element.s,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.s
+element.s,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@16,Sulfur,minechem:minechemElement
+element.sb,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.sb
+element.sb,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@51,Antimony,minechem:minechemElement
+element.sc,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.sc
+element.sc,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@21,Scandium,minechem:minechemElement
+element.se,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.se
+element.se,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@34,Selenium,minechem:minechemElement
+element.sg,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.sg
+element.sg,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@106,Seaborgium,minechem:minechemElement
+element.si,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.si
+element.si,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@14,Silicon,minechem:minechemElement
+element.sm,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.sm
+element.sm,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@62,Samarium,minechem:minechemElement
+element.sn,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.sn
+element.sn,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@50,Tin,minechem:minechemElement
+element.sr,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.sr
+element.sr,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@38,Strontium,minechem:minechemElement
+element.ta,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@73,Tantalum,minechem:minechemElement
+element.ta,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ta
+element.tb,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.tb
+element.tb,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@65,Terbium,minechem:minechemElement
+element.tc,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.tc
+element.tc,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@43,Technetium,minechem:minechemElement
+element.te,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.te
+element.te,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@52,Tellurium,minechem:minechemElement
+element.th,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.th
+element.th,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@90,Thorium,minechem:minechemElement
+element.ti,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.ti
+element.ti,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@22,Titanium,minechem:minechemElement
+element.tl,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.tl
+element.tl,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@81,Thallium,minechem:minechemElement
+element.tm,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.tm
+element.tm,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@69,Thulium,minechem:minechemElement
+element.u,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.u
+element.u,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@92,Uranium,minechem:minechemElement
+element.uut,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.uut
+element.uut,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@113,Ununtrium,minechem:minechemElement
+element.v,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.v
+element.v,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@23,Vanadium,minechem:minechemElement
+element.w,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.w
+element.w,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@74,Tungsten,minechem:minechemElement
+element.xe,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@54,Xenon,minechem:minechemElement
+element.xe,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.xe
+element.y,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.y
+element.y,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@39,Yttrium,minechem:minechemElement
+element.yb,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@70,Ytterbium,minechem:minechemElement
+element.yb,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.yb
+element.zn,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@30,Zinc,minechem:minechemElement
+element.zn,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.zn
+element.zr,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.element.element.zr
+element.zr,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemElement@40,Zirconium,minechem:minechemElement
+elementium.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@15,Molten Elementium Bucket,ExtraTiC:extra.bucket
+emerald.liquid,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@15,Liquified Emerald Bucket,TConstruct:buckets
+emerald.liquid,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@15,Liquified Emerald Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+ender,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@23,Liquified Ender Bucket,TConstruct:buckets
+ender,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@23,Liquified Ender Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+ender,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.thermalfoundation.bucket@2,Resonant Ender Bucket,ThermalFoundation:bucket
+endergoo,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.bucketEnderGoo@0,Ender Goo Bucket,HardcoreEnderExpansion:bucket_ender_goo
+enderium.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@30,Molten Enderium Bucket,TConstruct:buckets
+fairy.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@1,Molten Fairy Bucket,ExtraTiC:extra.bucket
+fire_water,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.bucketFire_water@0,Fire Water Bucket,EnderIO:bucketFire_water
+fluiddeath,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.ItemBucketDeath@0,Bucket of Liquid Death,Thaumcraft:ItemBucketDeath
+fluidpure,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.ItemBucketPure@0,Bucket of Purifying Fluid,Thaumcraft:ItemBucketPure
+for.honey,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.for.bucketHoney@0,Honey Bucket,Forestry:bucketHoney
+for.honey,1000,1xitem.for.waxCapsule@0,Wax Capsule,Forestry:waxCapsule,1xitem.for.waxCapsuleHoney@0,Honey Capsule,Forestry:waxCapsuleHoney
+for.honey,1000,1xitem.for.canEmpty@0,Can,Forestry:canEmpty,1xitem.for.canHoney@0,Honey Can,Forestry:canHoney
+for.honey,1000,1xitem.for.refractoryEmpty@0,Refractory Capsule,Forestry:refractoryEmpty,1xitem.for.refractoryHoney@0,Honey Capsule,Forestry:refractoryHoney
+fuel,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.bucketFuel@0,Fuel Bucket,BuildCraft|Energy:bucketFuel
+fuel,1000,1xitem.for.waxCapsule@0,Wax Capsule,Forestry:waxCapsule,1xitem.for.waxCapsuleFuel@0,Fuel Capsule,Forestry:waxCapsuleFuel
+fuel,1000,1xitem.for.refractoryEmpty@0,Refractory Capsule,Forestry:refractoryEmpty,1xitem.for.refractoryFuel@0,Fuel Capsule,Forestry:refractoryFuel
+fuel,1000,1xitem.for.canEmpty@0,Can,Forestry:canEmpty,1xitem.for.canFuel@0,Fuel Can,Forestry:canFuel
+glass,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.for.bucketGlass@0,Molten Glass Bucket,Forestry:bucketGlass
+glass.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@13,Molten Glass Bucket,TConstruct:buckets
+glass.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@13,Molten Glass Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+glowstone,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.thermalfoundation.bucket@1,Energized Glowstone Bucket,ThermalFoundation:bucket
+glue,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@25,Sticky Glue Bucket,TConstruct:buckets
+glue,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@25,Sticky Glue Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+gold.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@1,Molten Gold Bucket,TConstruct:buckets
+gold.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@1,Molten Gold Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+heavywater,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.HeavyWaterBucket@0,Heavy Water Bucket,Mekanism:HeavyWaterBucket
+hootch,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.bucketHootch@0,Hootch Bucket,EnderIO:bucketHootch
+ice,1000,1xitem.for.refractoryEmpty@0,Refractory Capsule,Forestry:refractoryEmpty,1xitem.for.refractoryIce@0,Ice Capsule,Forestry:refractoryIce
+ice,1000,1xitem.for.waxCapsule@0,Wax Capsule,Forestry:waxCapsule,1xitem.for.waxCapsuleIce@0,Ice Capsule,Forestry:waxCapsuleIce
+ice,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.for.bucketIce@0,Crushed Ice Bucket,Forestry:bucketIce
+ice,1000,1xitem.for.canEmpty@0,Can,Forestry:canEmpty,1xitem.for.canIce@0,Ice Can,Forestry:canIce
+invar.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@21,Molten Invar Bucket,TConstruct:buckets
+invar.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@21,Molten Invar Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+iron.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@0,Molten Iron Bucket,TConstruct:buckets
+iron.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@0,Molten Iron Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+juice,1000,1xitem.for.canEmpty@0,Can,Forestry:canEmpty,1xitem.for.canJuice@0,Juice Can,Forestry:canJuice
+juice,1000,1xitem.for.waxCapsule@0,Wax Capsule,Forestry:waxCapsule,1xitem.for.waxCapsuleJuice@0,Juice Capsule,Forestry:waxCapsuleJuice
+juice,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.for.bucketJuice@0,Juice Bucket,Forestry:bucketJuice
+juice,1000,1xitem.for.refractoryEmpty@0,Refractory Capsule,Forestry:refractoryEmpty,1xitem.for.refractoryJuice@0,Juice Capsule,Forestry:refractoryJuice
+lava,1000,1xitem.for.refractoryEmpty@0,Refractory Capsule,Forestry:refractoryEmpty,1xitem.for.refractoryLava@0,Lava Capsule,Forestry:refractoryLava
+lava,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.bucketLava@0,Lava Bucket,minecraft:lava_bucket
+lava,1000,0xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket.Lava@0,Lava Clay Bucket,IguanaTweaksTConstruct:clayBucketLava
+lava,1000,1xitem.for.canEmpty@0,Can,Forestry:canEmpty,1xitem.for.canLava@0,Lava Can,Forestry:canLava
+lead.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@18,Molten Lead Bucket,TConstruct:buckets
+lead.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@18,Molten Lead Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+lithium,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.LithiumBucket@0,Lithium Bucket,Mekanism:LithiumBucket
+ludicrite.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@18,Molten Ludicrite Bucket,ExtraTiC:extra.bucket
+lumium.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@27,Molten Lumium Bucket,TConstruct:buckets
+mana,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.thermalfoundation.bucket@5,Primal Mana Bucket,ThermalFoundation:bucket
+manasteel.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@13,Molten Manasteel Bucket,ExtraTiC:extra.bucket
+manyullyn.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@9,Molten Manyullyn Bucket,TConstruct:buckets
+manyullyn.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@9,Molten Manyullyn Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+meat,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.mfr.bucket.meat@0,Meat Bucket,MineFactoryReloaded:bucket.meat
+milk,1000,1xitem.glassBottle@0,Glass Bottle,minecraft:glass_bottle,1xitem.mfr.milkbottle@0,Milk Bottle,MineFactoryReloaded:milkbottle
+milk,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.mfr.bucket.milk@0,Milk Bucket,minecraft:milk_bucket
+mithril.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@29,Molten Mana Infused Metal Bucket,TConstruct:buckets
+mobessence,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.mfr.bucket.essence@0,Essence Bucket,MineFactoryReloaded:bucket.essence
+molecule.aalc,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@92,Allyl Alcohol,minechem:minechemMolecule
+molecule.aalc,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.aalc
+molecule.acetate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@18,Acetate (ion),minechem:minechemMolecule
+molecule.acetate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.acetate
+molecule.alinine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@43,Alanine,minechem:minechemMolecule
+molecule.alinine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.alinine
+molecule.almadine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.almadine
+molecule.almadine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@159,Almandine,minechem:minechemMolecule
+molecule.aluminiumhypophosphite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@155,Aluminium Hypophosphite,minechem:minechemMolecule
+molecule.aluminiumhypophosphite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.aluminiumhypophosphite
+molecule.aluminiumoxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@68,Aluminium Oxide,minechem:minechemMolecule
+molecule.aluminiumoxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.aluminiumoxide
+molecule.aluminiumphosphate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@118,Aluminium Phosphate,minechem:minechemMolecule
+molecule.aluminiumphosphate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.aluminiumphosphate
+molecule.ammonia,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@84,Ammonia,minechem:minechemMolecule
+molecule.ammonia,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.ammonia
+molecule.ammonium,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@21,Ammonium (ion),minechem:minechemMolecule
+molecule.ammonium,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.ammonium
+molecule.amphetamine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@63,Amphetamine,minechem:minechemMolecule
+molecule.amphetamine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.amphetamine
+molecule.arginine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@75,Arginine,minechem:minechemMolecule
+molecule.arginine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.arginine
+molecule.arsenicoxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@167,Arsenic Oxide,minechem:minechemMolecule
+molecule.arsenicoxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.arsenicoxide
+molecule.asbestos,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.asbestos
+molecule.asbestos,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@147,Asbestos,minechem:minechemMolecule
+molecule.asparagine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.asparagine
+molecule.asparagine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@145,Asparagine,minechem:minechemMolecule
+molecule.asparticacid,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@41,Aspartic Acid,minechem:minechemMolecule
+molecule.asparticacid,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.asparticacid
+molecule.asprin,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@79,Aspirin,minechem:minechemMolecule
+molecule.asprin,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.asprin
+molecule.augite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.augite
+molecule.augite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@125,Augite,minechem:minechemMolecule
+molecule.beryl,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@61,Beryl,minechem:minechemMolecule
+molecule.beryl,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.beryl
+molecule.biotite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@124,Biotite,minechem:minechemMolecule
+molecule.biotite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.biotite
+molecule.blackpigment,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@58,Carbon Black,minechem:minechemMolecule
+molecule.blackpigment,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.blackpigment
+molecule.blueorgodye,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@102,Guaiazulene,minechem:minechemMolecule
+molecule.blueorgodye,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.blueorgodye
+molecule.buli,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@89,Tert-butyllithium,minechem:minechemMolecule
+molecule.buli,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.buli
+molecule.butene,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@29,Butene,minechem:minechemMolecule
+molecule.butene,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.butene
+molecule.calcicpyroxene,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@8,Calcicpyroxene,minechem:minechemMolecule
+molecule.calcicpyroxene,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.calcicpyroxene
+molecule.calciumcarbonate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.calciumcarbonate
+molecule.calciumcarbonate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@25,Calcium Carbonate,minechem:minechemMolecule
+molecule.calciumoxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@24,Calcium Oxide,minechem:minechemMolecule
+molecule.calciumoxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.calciumoxide
+molecule.carbonate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@15,Carbonate (ion),minechem:minechemMolecule
+molecule.carbonate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.carbonate
+molecule.carbondioxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@2,Carbon Dioxide,minechem:minechemMolecule
+molecule.carbondioxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.carbondioxide
+molecule.caulerpenyne,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@110,Caulerpenyne,minechem:minechemMolecule
+molecule.caulerpenyne,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.caulerpenyne
+molecule.cellulose,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@0,Cellulose,minechem:minechemMolecule
+molecule.cellulose,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.cellulose
+molecule.cesiumhydroxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@152,Cesium Hydroxide,minechem:minechemMolecule
+molecule.cesiumhydroxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.cesiumhydroxide
+molecule.chromate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@19,Chromate (ion),minechem:minechemMolecule
+molecule.chromate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.chromate
+molecule.chromite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@163,Chromite,minechem:minechemMolecule
+molecule.chromite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.chromite
+molecule.cocaine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.cocaine
+molecule.cocaine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@100,Cocaine,minechem:minechemMolecule
+molecule.cocainehcl,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@101,Cocaine Hydrochloride,minechem:minechemMolecule
+molecule.cocainehcl,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.cocainehcl
+molecule.cucurbitacin,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.cucurbitacin
+molecule.cucurbitacin,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@40,Cucurbitacin,minechem:minechemMolecule
+molecule.cyanide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.cyanide
+molecule.cyanide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@16,Potassium Cyanide,minechem:minechemMolecule
+molecule.cysteine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@131,Cysteine,minechem:minechemMolecule
+molecule.cysteine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.cysteine
+molecule.ddt,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@80,Ddt,minechem:minechemMolecule
+molecule.ddt,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.ddt
+molecule.dimethyltryptamine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@172,Dimethyltryptamine,minechem:minechemMolecule
+molecule.dimethyltryptamine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.dimethyltryptamine
+molecule.dota,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@81,Dota,minechem:minechemMolecule
+molecule.dota,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.dota
+molecule.ethanol,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@62,Ethyl Alcohol,minechem:minechemMolecule
+molecule.ethanol,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.ethanol
+molecule.fibroin,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@117,Fibroin,minechem:minechemMolecule
+molecule.fibroin,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.fibroin
+molecule.fingolimod,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.fingolimod
+molecule.fingolimod,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@74,Fingolimod,minechem:minechemMolecule
+molecule.forsterite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@162,Forsterite,minechem:minechemMolecule
+molecule.forsterite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.forsterite
+molecule.franciumhydroxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@153,Francium Hydroxide,minechem:minechemMolecule
+molecule.franciumhydroxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.franciumhydroxide
+molecule.fullrene,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.fullrene
+molecule.fullrene,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@69,Carbon Nanotubes,minechem:minechemMolecule
+molecule.gallicacid,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@112,Gallic Acid,minechem:minechemMolecule
+molecule.gallicacid,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.gallicacid
+molecule.galliumarsenide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@116,Gallium Arsenide,minechem:minechemMolecule
+molecule.galliumarsenide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.galliumarsenide
+molecule.galliumoxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.galliumoxide
+molecule.galliumoxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@166,Gallium Oxide,minechem:minechemMolecule
+molecule.glucose,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.glucose
+molecule.glucose,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@113,Glucose,minechem:minechemMolecule
+molecule.glutamates,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@144,Glutamic Acid,minechem:minechemMolecule
+molecule.glutamates,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.glutamates
+molecule.glutamine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@138,Glutamine,minechem:minechemMolecule
+molecule.glutamine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.glutamine
+molecule.glycine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.glycine
+molecule.glycine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@44,Glycine,minechem:minechemMolecule
+molecule.glyphosate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@78,Glyphosate,minechem:minechemMolecule
+molecule.glyphosate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.glyphosate
+molecule.greenpigment,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@57,Zinc Green,minechem:minechemMolecule
+molecule.greenpigment,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.greenpigment
+molecule.hcl,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@99,Hydrogen Chloride,minechem:minechemMolecule
+molecule.hcl,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.hcl
+molecule.hist,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@93,Diphenhydramine,minechem:minechemMolecule
+molecule.hist,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.hist
+molecule.histidine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@136,Histidine,minechem:minechemMolecule
+molecule.histidine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.histidine
+molecule.hperox,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@115,Hydrogen Peroxide,minechem:minechemMolecule
+molecule.hperox,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.hperox
+molecule.hydrogensulfide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@169,Hydrogen Sulfide,minechem:minechemMolecule
+molecule.hydrogensulfide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.hydrogensulfide
+molecule.hydronium,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.hydronium
+molecule.hydronium,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@22,Hydronium (ion),minechem:minechemMolecule
+molecule.hydroxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@20,Hydroxide (ion),minechem:minechemMolecule
+molecule.hydroxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.hydroxide
+molecule.hydroxylapatite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@42,Hydroxylapatite,minechem:minechemMolecule
+molecule.hydroxylapatite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.hydroxylapatite
+molecule.hypophosphite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@154,Hypophosphite,minechem:minechemMolecule
+molecule.hypophosphite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.hypophosphite
+molecule.iron3oxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@36,Iron (iii) Oxide,minechem:minechemMolecule
+molecule.iron3oxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.iron3oxide
+molecule.ironoxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@165,Iron Oxide,minechem:minechemMolecule
+molecule.ironoxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.ironoxide
+molecule.isoleucine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@143,Isoleucine,minechem:minechemMolecule
+molecule.isoleucine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.isoleucine
+molecule.isoprene,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@28,Isoprene,minechem:minechemMolecule
+molecule.isoprene,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.isoprene
+molecule.kaolinite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@73,Kaolinite,minechem:minechemMolecule
+molecule.kaolinite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.kaolinite
+molecule.keratin,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.keratin
+molecule.keratin,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@146,Keratin,minechem:minechemMolecule
+molecule.latropine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@111,Hyoscyamine,minechem:minechemMolecule
+molecule.latropine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.latropine
+molecule.lazurite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.lazurite
+molecule.lazurite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@27,Lazurite,minechem:minechemMolecule
+molecule.lcd,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@108,Cholesteryl Benzoate,minechem:minechemMolecule
+molecule.lcd,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.lcd
+molecule.leucine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.leucine
+molecule.leucine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@140,Leucine,minechem:minechemMolecule
+molecule.lightbluepigment,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@55,Copper(ii) Sulfate,minechem:minechemMolecule
+molecule.lightbluepigment,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.lightbluepigment
+molecule.limepigment,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@54,Nickel(ii) Chloride,minechem:minechemMolecule
+molecule.limepigment,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.limepigment
+molecule.lithiumhydroxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.lithiumhydroxide
+molecule.lithiumhydroxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@148,Lithium Hydroxide,minechem:minechemMolecule
+molecule.lysine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.lysine
+molecule.lysine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@133,Lysine,minechem:minechemMolecule
+molecule.magnesiumcarbonate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.magnesiumcarbonate
+molecule.magnesiumcarbonate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@26,Magnesium Carbonate,minechem:minechemMolecule
+molecule.magnesiumoxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@39,Magnesium Oxide,minechem:minechemMolecule
+molecule.magnesiumoxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.magnesiumoxide
+molecule.magnetite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@38,Magnetite,minechem:minechemMolecule
+molecule.magnetite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.magnetite
+molecule.malicacid,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@31,Malic Acid,minechem:minechemMolecule
+molecule.malicacid,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.malicacid
+molecule.memethacrylate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.memethacrylate
+molecule.memethacrylate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@49,Methyl Methacrylate,minechem:minechemMolecule
+molecule.meoh,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@107,Methyl Alcohol,minechem:minechemMolecule
+molecule.meoh,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.meoh
+molecule.mescaline,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.mescaline
+molecule.mescaline,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@46,Mescaline,minechem:minechemMolecule
+molecule.metasilicate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.metasilicate
+molecule.metasilicate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@60,Metasilicate,minechem:minechemMolecule
+molecule.metblue,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@106,Methylene Blue,minechem:minechemMolecule
+molecule.metblue,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.metblue
+molecule.methamphetamine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@34,Methamphetamine,minechem:minechemMolecule
+molecule.methamphetamine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.methamphetamine
+molecule.methionine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@134,Methionine,minechem:minechemMolecule
+molecule.methionine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.methionine
+molecule.methyl,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@47,Methyl (ion),minechem:minechemMolecule
+molecule.methyl,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.methyl
+molecule.methylene,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.methylene
+molecule.methylene,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@48,Methylene (ion),minechem:minechemMolecule
+molecule.mt,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@88,Methylcyclopentadienyl Manganese Tricarbonyl,minechem:minechemMolecule
+molecule.mt,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.mt
+molecule.mycotoxin,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.mycotoxin
+molecule.mycotoxin,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@82,T-2 Mycotoxin,minechem:minechemMolecule
+molecule.nepheline,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@10,Nepheline,minechem:minechemMolecule
+molecule.nepheline,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.nepheline
+molecule.nitrate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@14,Nitrate (ion),minechem:minechemMolecule
+molecule.nitrate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.nitrate
+molecule.nitrogendioxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@3,Nitrogen Dioxide,minechem:minechemMolecule
+molecule.nitrogendioxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.nitrogendioxide
+molecule.nodularin,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.nodularin
+molecule.nodularin,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@85,Nodularin,minechem:minechemMolecule
+molecule.noselite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@12,Noselite,minechem:minechemMolecule
+molecule.noselite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.noselite
+molecule.oleicacid,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@173,Oleic Acid,minechem:minechemMolecule
+molecule.oleicacid,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.oleicacid
+molecule.olivine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@105,Olivine,minechem:minechemMolecule
+molecule.olivine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.olivine
+molecule.omphacite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@156,Omphacite,minechem:minechemMolecule
+molecule.omphacite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.omphacite
+molecule.orangepigment,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@52,Potassium Dichromate,minechem:minechemMolecule
+molecule.orangepigment,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.orangepigment
+molecule.orthoclase,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.orthoclase
+molecule.orthoclase,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@123,Orthoclase,minechem:minechemMolecule
+molecule.pal2,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@94,Batrachotoxin,minechem:minechemMolecule
+molecule.pal2,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.pal2
+molecule.pantherine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.pantherine
+molecule.pantherine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@67,Pantherine,minechem:minechemMolecule
+molecule.penicillin,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@71,Penicillin,minechem:minechemMolecule
+molecule.penicillin,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.penicillin
+molecule.peridot,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.peridot
+molecule.peridot,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@128,Peridot,minechem:minechemMolecule
+molecule.peroxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.peroxide
+molecule.peroxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@23,Peroxide (ion),minechem:minechemMolecule
+molecule.phenylalanine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@137,Phenylalanine,minechem:minechemMolecule
+molecule.phenylalanine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.phenylalanine
+molecule.phosgene,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@91,Phosgene,minechem:minechemMolecule
+molecule.phosgene,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.phosgene
+molecule.phosphate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.phosphate
+molecule.phosphate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@17,Phosphate (ion),minechem:minechemMolecule
+molecule.plagioclasealbite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@122,Albite,minechem:minechemMolecule
+molecule.plagioclasealbite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.plagioclasealbite
+molecule.plagioclaseanorthite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@121,Anorthite,minechem:minechemMolecule
+molecule.plagioclaseanorthite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.plagioclaseanorthite
+molecule.plat,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@90,Chloroplatinic Acid,minechem:minechemMolecule
+molecule.plat,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.plat
+molecule.pmma,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@50,Poly(methyl Methacrylate),minechem:minechemMolecule
+molecule.pmma,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.pmma
+molecule.polyisobutylene,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@30,Polyisobutylene Rubber,minechem:minechemMolecule
+molecule.polyisobutylene,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.polyisobutylene
+molecule.polyvinylchloride,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@33,Polyvinyl Chloride,minechem:minechemMolecule
+molecule.polyvinylchloride,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.polyvinylchloride
+molecule.potassiumhydroxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.potassiumhydroxide
+molecule.potassiumhydroxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@150,Potassium Hydroxide,minechem:minechemMolecule
+molecule.potassiumnitrate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.potassiumnitrate
+molecule.potassiumnitrate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@5,Potassium Nitrate,minechem:minechemMolecule
+molecule.potassiumoxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@119,Potassium Oxide,minechem:minechemMolecule
+molecule.potassiumoxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.potassiumoxide
+molecule.proline,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@139,Proline,minechem:minechemMolecule
+molecule.proline,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.proline
+molecule.propane,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@127,Propane,minechem:minechemMolecule
+molecule.propane,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.propane
+molecule.psilocybin,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@35,Psilocybin,minechem:minechemMolecule
+molecule.psilocybin,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.psilocybin
+molecule.purpleorgodye,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@104,Delphinidin,minechem:minechemMolecule
+molecule.purpleorgodye,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.purpleorgodye
+molecule.purplepigment,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@56,Potassium Permanganate,minechem:minechemMolecule
+molecule.purplepigment,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.purplepigment
+molecule.pyrite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.pyrite
+molecule.pyrite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@9,Pyrite,minechem:minechemMolecule
+molecule.pyrope,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.pyrope
+molecule.pyrope,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@158,Pyrope,minechem:minechemMolecule
+molecule.radchlor,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.radchlor
+molecule.radchlor,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@109,Radium Chloride,minechem:minechemMolecule
+molecule.redgarnet,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@161,Red Garnet,minechem:minechemMolecule
+molecule.redgarnet,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.redgarnet
+molecule.redorgodye,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@103,Pelargonidin,minechem:minechemMolecule
+molecule.redorgodye,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.redorgodye
+molecule.redpigment,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.redpigment
+molecule.redpigment,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@51,Cobalt(ii) Nitrate,minechem:minechemMolecule
+molecule.retinol,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.retinol
+molecule.retinol,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@95,Retinol,minechem:minechemMolecule
+molecule.rubidiumhydroxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@151,Rubidium Hydroxide,minechem:minechemMolecule
+molecule.rubidiumhydroxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.rubidiumhydroxide
+molecule.salt,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@83,Salt,minechem:minechemMolecule
+molecule.salt,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.salt
+molecule.serine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.serine
+molecule.serine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@45,Serine,minechem:minechemMolecule
+molecule.shikimicacid,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.shikimicacid
+molecule.shikimicacid,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@76,Shikimic Acid,minechem:minechemMolecule
+molecule.silicate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.silicate
+molecule.silicate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@157,Silicate,minechem:minechemMolecule
+molecule.silicondioxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.silicondioxide
+molecule.silicondioxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@7,Silicon Dioxide,minechem:minechemMolecule
+molecule.siliconoxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.siliconoxide
+molecule.siliconoxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@164,Silicon Oxide,minechem:minechemMolecule
+molecule.sodalite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.sodalite
+molecule.sodalite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@13,Sodalite,minechem:minechemMolecule
+molecule.sodiumbisulfate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@170,Sodium Bisulfate,minechem:minechemMolecule
+molecule.sodiumbisulfate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.sodiumbisulfate
+molecule.sodiumhydroxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@149,Sodium Hydroxide,minechem:minechemMolecule
+molecule.sodiumhydroxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.sodiumhydroxide
+molecule.sodiumoxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@120,Sodium Oxide,minechem:minechemMolecule
+molecule.sodiumoxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.sodiumoxide
+molecule.sodiumsulfate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@171,Sodium Sulfate,minechem:minechemMolecule
+molecule.sodiumsulfate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.sodiumsulfate
+molecule.spessartine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@160,Spessartine,minechem:minechemMolecule
+molecule.spessartine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.spessartine
+molecule.starch,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@65,Starch,minechem:minechemMolecule
+molecule.starch,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.starch
+molecule.strontiumnitrate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@37,Strontium Nitrate,minechem:minechemMolecule
+molecule.strontiumnitrate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.strontiumnitrate
+molecule.sucrose,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@66,Sucrose,minechem:minechemMolecule
+molecule.sucrose,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.sucrose
+molecule.sulfate,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.sulfate
+molecule.sulfate,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@11,Sulfate (ion),minechem:minechemMolecule
+molecule.sulfurdioxide,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@168,Sulfur Dioxide,minechem:minechemMolecule
+molecule.sulfurdioxide,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.sulfurdioxide
+molecule.sulfuricacid,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@77,Sulfuric Acid,minechem:minechemMolecule
+molecule.sulfuricacid,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.sulfuricacid
+molecule.talc,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@126,Talc,minechem:minechemMolecule
+molecule.talc,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.talc
+molecule.tannicacid,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@114,Tannic Acid,minechem:minechemMolecule
+molecule.tannicacid,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.tannicacid
+molecule.testosterone,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.testosterone
+molecule.testosterone,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@72,Testosterone,minechem:minechemMolecule
+molecule.tetrodotoxin,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@86,Tetrodotoxin,minechem:minechemMolecule
+molecule.tetrodotoxin,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.tetrodotoxin
+molecule.thc,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@87,Thc,minechem:minechemMolecule
+molecule.thc,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.thc
+molecule.theobromine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.theobromine
+molecule.theobromine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@64,Theobromine,minechem:minechemMolecule
+molecule.threonine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@132,Threonine,minechem:minechemMolecule
+molecule.threonine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.threonine
+molecule.tnt,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@6,Trinitrotoluene,minechem:minechemMolecule
+molecule.tnt,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.tnt
+molecule.toluene,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@4,Toluene,minechem:minechemMolecule
+molecule.toluene,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.toluene
+molecule.topaz,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@129,Topaz,minechem:minechemMolecule
+molecule.topaz,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.topaz
+molecule.tryptophan,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@141,Tryptophan,minechem:minechemMolecule
+molecule.tryptophan,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.tryptophan
+molecule.tyrosine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@135,Tyrosine,minechem:minechemMolecule
+molecule.tyrosine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.tyrosine
+molecule.valine,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@70,Valine,minechem:minechemMolecule
+molecule.valine,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.valine
+molecule.vinylchloride,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.vinylchloride
+molecule.vinylchloride,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@32,Vinyl Chloride Monomer,minechem:minechemMolecule
+molecule.weedex,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.weedex
+molecule.weedex,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@97,Aminocyclopyrachlor,minechem:minechemMolecule
+molecule.whitepigment,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.whitepigment
+molecule.whitepigment,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@59,Titanium Dioxide,minechem:minechemMolecule
+molecule.xanax,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@98,Alprazolam,minechem:minechemMolecule
+molecule.xanax,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.xanax
+molecule.xylitol,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@96,Xylitol,minechem:minechemMolecule
+molecule.xylitol,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.xylitol
+molecule.yellowpigment,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@53,Potassium Chromate,minechem:minechemMolecule
+molecule.yellowpigment,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.yellowpigment
+molecule.zoisite,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@130,Zoisite,minechem:minechemMolecule
+molecule.zoisite,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.minechemBucket@0,Chemical Bucket,minechem:minechemBucket.molecule.molecule.zoisite
+mushroomsoup,1000,1xitem.bowl@0,Bowl,minecraft:bowl,1xitem.mushroomStew@0,Mushroom Stew,minecraft:mushroom_stew
+mushroomsoup,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.mfr.bucket.mushroomsoup@0,Mushroom Soup Bucket,MineFactoryReloaded:bucket.mushroomsoup
+nickel.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@17,Molten Nickel Bucket,TConstruct:buckets
+nickel.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@17,Molten Nickel Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+nutrient_distillation,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.bucketNutrient_distillation@0,Nutrient Distillation Bucket,EnderIO:bucketNutrient_distillation
+obsidian.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@11,Molten Obsidian Bucket,TConstruct:buckets
+obsidian.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@11,Molten Obsidian Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+oil,1000,1xitem.for.canEmpty@0,Can,Forestry:canEmpty,1xitem.for.canOil@0,Oil Can,Forestry:canOil
+oil,1000,1xitem.for.waxCapsule@0,Wax Capsule,Forestry:waxCapsule,1xitem.for.waxCapsuleOil@0,Oil Capsule,Forestry:waxCapsuleOil
+oil,1000,1xitem.for.refractoryEmpty@0,Refractory Capsule,Forestry:refractoryEmpty,1xitem.for.refractoryOil@0,Oil Capsule,Forestry:refractoryOil
+oil,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.bucketOil@0,Oil Bucket,BuildCraft|Energy:bucketOil
+osmium.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@3,Molten Osmium Bucket,ExtraTiC:extra.bucket
+petrotheum,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.thermalfoundation.bucket@8,Tectonic Petrotheum Bucket,ThermalFoundation:bucket
+pigiron.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@26,Molten Pig Iron Bucket,TConstruct:buckets
+pigiron.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@26,Molten Pig Iron Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+pinkslime,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.mfr.bucket.pinkslime@0,Pink Slime Bucket,MineFactoryReloaded:bucket.pinkslime
+platinum.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@20,Molten Shiny Bucket,TConstruct:buckets
+platinum.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@20,Molten Shiny Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+pokefennium.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@4,Molten Pokefennium Bucket,ExtraTiC:extra.bucket
+pyrotheum,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.thermalfoundation.bucket@3,Blazing Pyrotheum Bucket,ThermalFoundation:bucket
+red.aurum.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@5,Molten RedAurum Bucket,ExtraTiC:extra.bucket
+redstone,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.thermalfoundation.bucket@0,Destabilized Redstone Bucket,ThermalFoundation:bucket
+refined.glowstone.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@2,Molten Refined Glowstone Bucket,ExtraTiC:extra.bucket
+rocket_fuel,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.bucketRocket_fuel@0,Rocket Fuel Bucket,EnderIO:bucketRocket_fuel
+seedoil,1000,1xitem.for.refractoryEmpty@0,Refractory Capsule,Forestry:refractoryEmpty,1xitem.for.refractorySeedOil@0,Seed Oil Capsule,Forestry:refractorySeedOil
+seedoil,1000,1xitem.for.waxCapsule@0,Wax Capsule,Forestry:waxCapsule,1xitem.for.waxCapsuleSeedOil@0,Seed Oil Capsule,Forestry:waxCapsuleSeedOil
+seedoil,1000,1xitem.for.canEmpty@0,Can,Forestry:canEmpty,1xitem.for.canSeedOil@0,Seed Oil Can,Forestry:canSeedOil
+seedoil,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.for.bucketSeedoil@0,Seed Oil Bucket,Forestry:bucketSeedoil
+sewage,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.mfr.bucket.sewage@0,Sewage Bucket,MineFactoryReloaded:bucket.sewage
+short.mead,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.for.bucketShortMead@0,Short Mead Bucket,Forestry:bucketShortMead
+short.mead,1000,1xitem.glassBottle@0,Glass Bottle,minecraft:glass_bottle,1xitem.for.beverage@0,Short Mead,Forestry:beverage
+signalum.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@28,Molten Signalum Bucket,TConstruct:buckets
+silver.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@19,Molten Silver Bucket,TConstruct:buckets
+silver.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@19,Molten Silver Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+slime.blue,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@24,Liquid Slime Bucket,TConstruct:buckets
+slime.blue,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@24,Liquid Slime Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+sludge,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.mfr.bucket.sludge@0,Sludge Bucket,MineFactoryReloaded:bucket.sludge
+steam,1000,1xitem.glassBottle@0,Glass Bottle,minecraft:glass_bottle,1xitem.railcraft.fluid.steam.bottle@0,Steam Bottle,Railcraft:fluid.steam.bottle
+steel.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@12,Molten Steel Bucket,TConstruct:buckets
+steel.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@12,Molten Steel Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+stone.seared,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@14,Seared Stone Bucket,TConstruct:buckets
+stone.seared,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@14,Seared Stone Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+terrasteel.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@14,Molten Terrasteel Bucket,ExtraTiC:extra.bucket
+tin.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.tconstruct.bucket@3,Molten Tin Bucket,TConstruct:buckets
+tin.molten,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket@3,Molten Tin Clay Bucket,IguanaTweaksTConstruct:clayBucketsTinkers
+voidmetal.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@16,Molten Voidmetal Bucket,ExtraTiC:extra.bucket
+water,333,1xitem.glassBottle@0,Glass Bottle,minecraft:glass_bottle,1xitem.potion@0,Water Bottle,minecraft:potion
+water,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.bucketWater@0,Water Bucket,minecraft:water_bucket
+water,125,1xitem.itemElement@0,Empty Tube,minechem:minechemElement,1xitem.itemMolecule@1,Water,minechem:minechemMolecule
+water,1000,1xitem.iguana.tcon.clayBucketFired@0,Fired Clay Bucket,IguanaTweaksTConstruct:clayBucketFired,1xitem.iguana.tcon.clayBucket.Water@0,Water Clay Bucket,IguanaTweaksTConstruct:clayBucketWater
+water,1000,1xitem.for.canEmpty@0,Can,Forestry:canEmpty,1xitem.for.canWater@0,Water Can,Forestry:canWater
+water,1000,1xitem.for.waxCapsule@0,Wax Capsule,Forestry:waxCapsule,1xitem.for.waxCapsuleWater@0,Water Capsule,Forestry:waxCapsuleWater
+water,1000,1xitem.for.refractoryEmpty@0,Refractory Capsule,Forestry:refractoryEmpty,1xitem.for.refractoryWater@0,Water Capsule,Forestry:refractoryWater
+witchery:brew,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.witchery:bucketbrew@0,item.witchery:bucketbrew.name,witchery:bucketbrew
+witchery:fluidspirit,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.witchery:bucketspirit@0,Spirit Bucket,witchery:bucketspirit
+witchery:hollowtears,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.witchery:buckethollowtears@0,Hollow Tears Bucket,witchery:buckethollowtears
+xpjuice,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.openblocks.filledbucket@0,XP Bucket,OpenBlocks:filledbucket
+zinc.molten,1000,1xitem.bucket@0,Bucket,minecraft:bucket,1xitem.extratic.bucket@10,Molten Zinc Bucket,ExtraTiC:extra.bucket

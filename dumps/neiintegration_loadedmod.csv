@@ -1,0 +1,113 @@
+ID,Name,Version,Custom Container,Disableable,Dependencies
+mcp,Minecraft Coder Pack,9.05,true,YES,[]
+FML,Forge Mod Loader,7.10.99.99,true,NEVER,[]
+Forge,Minecraft Forge,10.13.4.1448,true,NEVER,[]
+appliedenergistics2-core,AppliedEnergistics2 Core,rv2-stable-10,true,NEVER,[]
+Aroma1997Core,Aroma1997Core,1.0.2.14,true,NEVER,[]
+CodeChickenCore,CodeChicken Core,1.0.7.46,true,NEVER,[]
+InfiniBows,InfiniBows,1.3.0 build 20,true,NEVER,[]
+NotEnoughItems,Not Enough Items,1.0.5.111,true,NEVER,"[CodeChickenCore@[1.0.7,)]"
+ThaumicTinkerer-preloader,Thaumic Tinkerer Core,0.1,true,NEVER,[]
+OpenModsCore,OpenModsCore,0.8,true,NEVER,[]
+<CoFH ASM>,CoFH ASM,000,true,NEVER,[]
+act,AdminCommandsToolbox,0.0.2a_1.7.10,false,RESTART,[]
+appliedenergistics2,Applied Energistics 2,rv2-stable-10,false,DEPENDENCIES,"[appliedenergistics2-core, Forge@[10.13.2.1291,)]"
+Aroma1997CoreHelper,Aroma1997Core|Helper,1.0.2.14,false,RESTART,[]
+AromaBackup,AromaBackup,0.0.0.5,false,RESTART,[Aroma1997Core]
+CoFHCore,CoFH Core,1.7.10R3.0.3,false,DEPENDENCIES,"[Forge@[10.13.3.1448,10.14)]"
+Baubles,Baubles,1.0.1.10,false,DEPENDENCIES,"[Forge@[10.13.2,)]"
+ThermalFoundation,Thermal Foundation,1.7.10R1.2.0,false,DEPENDENCIES,"[CoFHCore@[1.7.10R3.0.3,)]"
+ThermalExpansion,Thermal Expansion,1.7.10R4.0.3B1,false,RESTART,"[CoFHCore@[1.7.10R3.0.3,), ThermalFoundation@[1.7.10R1.2.0,)]"
+BigReactors,Big Reactors,0.4.3A,false,RESTART,"[Forge@[10.13.2.1291,), CoFHCore, ThermalExpansion]"
+BiomesOPlenty,Biomes O' Plenty,2.1.0,false,RESTART,"[Natura, Forge@[10.12.2.1147,)]"
+Thaumcraft,Thaumcraft,4.2.3.5,false,DEPENDENCIES,"[Forge@[10.13.2,), Baubles@[1.0.1.10,)]"
+Botania,Botania,r1.7-208,false,RESTART,"[Baubles, Thaumcraft]"
+BuildCraft|Core,BuildCraft,7.0.20,false,DEPENDENCIES,"[Forge@[10.13.2.1236,)]"
+BuildCraft|Silicon,BC Silicon,7.0.20,false,RESTART,[BuildCraft|Core@7.0.20]
+BuildCraft|Transport,BC Transport,7.0.20,false,RESTART,[BuildCraft|Core@7.0.20]
+BuildCraft|Builders,BC Builders,7.0.20,false,RESTART,[BuildCraft|Core@7.0.20]
+BuildCraft|Robotics,BC Robotics,7.0.20,false,RESTART,[BuildCraft|Core@7.0.20]
+BuildCraft|Energy,BC Energy,7.0.20,false,RESTART,[BuildCraft|Core@7.0.20]
+BuildCraft|Factory,BC Factory,7.0.20,false,RESTART,[BuildCraft|Core@7.0.20]
+HardcoreEnderExpansion,Hardcore Ender Expansion,1.8.2,false,RESTART,[]
+Forestry,Forestry for Minecraft,3.6.2.19,false,RESTART,"[Forge@[10.13.0.1207,), Buildcraft|Core@[6.1.7,), ExtrabiomesXL, BiomesOPlenty, IC2@[2.0.140,), Natura@[2.2.0,), HardcoreEnderExpansion]"
+BuildCraft|Compat,BuildCraft Compat,7.0.11,false,RESTART,"[Forge@[10.13.0.1179,), BuildCraft|Core, Forestry, BuildCraft|Transport, BuildCraft|Builders]"
+CarpentersBlocks,Carpenter's Blocks,3.3.7 DEV,false,RESTART,"[Forge@[10.13.0.1180,)]"
+Railcraft,Railcraft,9.7.0.0,false,RESTART,"[Forge@[10.13.0.1199,), BuildCraft|Core[6.1.7,), BuildCraft|Energy, BuildCraft|Builders, BuildCraft|Factory, BuildCraftAPI|statements[1.0,), BuildCraftAPI|transport[1.0,), Forestry[3,), Thaumcraft, IC2@[2.2,)]"
+ForgeMultipart,Forge Multipart,1.2.0.345,false,DEPENDENCIES,[]
+chisel,Chisel 2,2.4.1.40,false,RESTART,"[EE3, ForgeMultipart, Thaumcraft, appliedenergistics2, Railcraft, AWWayofTime, TwilightForest]"
+ctmlib,CTMLib,1.0.1.5,false,RESTART,[]
+ComputerCraft,ComputerCraft,1.74,false,RESTART,[]
+eplus,Enchanting Plus,3.0.2-d,false,RESTART,[]
+MineFactoryReloaded,MineFactory Reloaded,1.7.10R2.8.0,false,DEPENDENCIES,"[FML@[7.10.0.1217,7.11), Forge@[10.13.1.1217,10.14), CoFHCore@[1.7.10R3.0.1,)]"
+Mekanism,Mekanism,8.1.7,false,DEPENDENCIES,"[ForgeMultipart, BuildCraft, BuildCraftAPI, IC2, CoFHCore, ComputerCraft, Galacticraft API, MetallurgyCore]"
+EnderIO,Ender IO,1.7.10-2.2.8.381,false,RESTART,"[Forge@10.13.0.1150,), MineFactoryReloaded, appliedenergistics2@[rv2-beta-8,)]"
+EnderStorage,EnderStorage,1.4.7.36,false,RESTART,"[CodeChickenCore@[1.0.5,)]"
+Waila,Waila,1.5.10,false,RESTART,"[NotEnoughItems@[1.0.4.0,)]"
+extracells,Extra Cells 2,2.2.71,false,RESTART,"[LogisticsPipes|Main, Waila, appliedenergistics2]"
+Mantle,Mantle,1.7.10-0.3.2.jenkins184,false,DEPENDENCIES,"[Forge@[10.13,)]"
+TConstruct,Tinkers' Construct,1.7.10-1.8.5.build957,false,DEPENDENCIES,"[Forge@[10.13.3.1384,11.14), Mantle@[1.7.10-0.3.2,), MineFactoryReloaded@[1.7.10R2.8.0RC7,), ThermalExpansion@[1.7.10R4.0.0RC2,), ThermalFoundation@[1.7.10R1.0.0RC3,), armourersWorkshop@[1.7.10-0.28.0,), CoFHAPI|energy, CoFHCore, battlegear2, ZeldaItemAPI, DynamicSkillsAPI, NotEnoughItems, Waila]"
+ExtraUtilities,Extra Utilities,1.2.10,false,RESTART,"[Forge@[10.13.2.1291,), ForgeMultipart@[1.2.0.336,), Baubles, ThermalFoundation, TConstruct@[1.7.10-1.8.5,), EE3]"
+ExtraTiC,ExtraTiC,1.4.5,false,RESTART,"[TConstruct, Metallurgy@[4.0.4,], Natura, Mekanisum, appliedenergistics2, BiomesOPlenty, TSteelworks, BigReactors, ExtraUtilities, harvestcraft, progressiveautomation, ThermalFoundation, nevermine]"
+FastCraft,FastCraft,1.21,false,RESTART,[]
+flansmod,Flan's Mod,4.10.0,false,RESTART,[]
+InfernalMobs,Infernal Mobs,1.6.1,false,RESTART,[]
+inventorytweaks,Inventory Tweaks,1.59-dev-152-cf6e263,false,RESTART,"[FML@[7.2.0,), Forge@[10.12.1,)]"
+IronChest,Iron Chest,6.0.60.741,false,RESTART,"[Forge@[10.10,), FML@[7.2,)]"
+JABBA,JABBA,1.2.1,false,RESTART,"[Waila, NotEnoughItems]"
+journeymap,JourneyMap,@JMVERSION@,false,YES,"[Forge@[10.13.2.1291,)]"
+magnanimoustools,Magnanimous Tools,1.0.8,false,RESTART,[]
+MekanismGenerators,MekanismGenerators,8.1.7,false,RESTART,[Mekanism]
+MekanismTools,MekanismTools,8.1.7,false,RESTART,[Mekanism]
+minechem,Minechem,5.0.5.406,false,RESTART,"[Forge@[10.13.3.1360,)]"
+MineFactoryReloaded|CompatAppliedEnergistics,MFR Compat: Applied Energistics,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, appliedenergistics2]"
+MineFactoryReloaded|CompatAtum,MFR Compat: Atum,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, Atum]"
+MineFactoryReloaded|CompatBackTools,MFR Compat: BackTools,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, mod_BackTools]"
+MineFactoryReloaded|CompatBuildCraft,MFR Compat: BuildCraft,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, BuildCraft|Core]"
+MineFactoryReloaded|CompatChococraft,MFR Compat: Chococraft,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, chococraft]"
+MineFactoryReloaded|CompatExtraBiomes,MFR Compat: ExtraBiomes,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, ExtrabiomesXL]"
+MineFactoryReloaded|CompatForestry,MFR Compat: Forestry,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, Forestry]"
+MineFactoryReloaded|CompatForgeMicroblock,MFR Compat: ForgeMicroblock,1.7.10R2.8.0,false,RESTART,[MineFactoryReloaded]
+MineFactoryReloaded|CompatIC2,MFR Compat: IC2,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, IC2]"
+MineFactoryReloaded|CompatMystcraft,MFR Compat: Mystcraft,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, Mystcraft]"
+MineFactoryReloaded|CompatProjRed,MFR Compat ProjectRed,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, ProjRed|Core, ProjRed|Exploration]"
+MineFactoryReloaded|CompatRailcraft,MFR Compat: Railcraft,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, Railcraft]"
+MineFactoryReloaded|CompatSufficientBiomes,MFR Compat: Sufficient Biomes,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, EmasherWorldGen]"
+MineFactoryReloaded|CompatThaumcraft,MFR Compat: Thaumcraft,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, Thaumcraft]"
+MineFactoryReloaded|CompatThermalExpansion,MFR Compat: Thermal Expansion,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, ThermalExpansion]"
+MineFactoryReloaded|CompatTConstruct,MFR Compat: Tinkers' Construct,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, TConstruct]"
+MineFactoryReloaded|CompatTwilightForest,MFR Compat: TwilightForest,1.7.10R2.8.0,false,RESTART,"[MineFactoryReloaded, TwilightForest]"
+MineFactoryReloaded|CompatVanilla,MFR Compat: Vanilla,1.7.10R2.8.0,false,RESTART,[MineFactoryReloaded]
+MineTweaker3,MineTweaker 3,3.0.9B,false,DEPENDENCIES,[]
+modtweaker2,Mod Tweaker 2,0.9.1,false,RESTART,[MineTweaker3]
+ModularForcefieldSystem,Modular Forcefield System,3.0-ALPHA-7,false,RESTART,[]
+NEIAddons,NEI Addons,1.12.10.33,false,RESTART,[NotEnoughItems]
+NEIAddons|AppEng,NEI Addons: Applied Energistics 2,1.12.10.33,false,RESTART,"[NEIAddons, appliedenergistics2]"
+NEIAddons|Botany,NEI Addons: Botany,1.12.10.33,false,RESTART,"[NEIAddons, Botany]"
+NEIAddons|Forestry,NEI Addons: Forestry,1.12.10.33,false,RESTART,"[NEIAddons, Forestry]"
+NEIAddons|CraftingTables,NEI Addons: Crafting Tables,1.12.10.33,false,RESTART,[NEIAddons]
+NEIAddons|ExNihilo,NEI Addons: Ex Nihilo,1.12.10.33,false,RESTART,[exnihilo]
+neiintegration,NEI Integration,1.0.11,false,RESTART,"[Forestry@[3.6.0,)]"
+OpenMods,OpenMods,0.8,false,DEPENDENCIES,[OpenModsCore]
+OpenBlocks,OpenBlocks,1.4.4,false,RESTART,"[OpenMods@[0.8,0.9)]"
+OpenPeripheralCore,OpenPeripheralCore,1.2,false,RESTART,"[OpenMods@[0.8,0.9), ComputerCraft@[1.70,], OpenComputers@[1.5.0,]]"
+OpenPeripheral,OpenPeripheralAddons,0.4,false,RESTART,"[OpenMods@[0.8,0.9), OpenPeripheralApi@[3.3.1,3.4), ComputerCraft@[1.70,]]"
+OpenPeripheralIntegration,OpenPeripheralIntegration,0.3,false,RESTART,"[OpenMods@[0.8,0.9), OpenPeripheralApi@[3.3.1,3.4), ComputerCraft@[1.70,], appliedEnergistics-2, IC2, EnderStorage, BuildCraft|Core, Forestry, Mystcraft, Railcraft, Thaumcraft, ThermalExpansion]"
+RedstoneArsenal,Redstone Arsenal,1.7.10R1.1.1,false,RESTART,"[CoFHCore@[1.7.10R3.0.3,), ThermalExpansion]"
+Roguelike,Roguelike Dungeons,1.3.6.3,false,RESTART,[]
+secretroomsmod,The SecretRoomsMod,4.7.1,false,RESTART,[malisisdoors]
+simplyjetpacks,Simply Jetpacks,1.5.1,false,RESTART,"[Forge@[10.13.2.1291,), ThermalExpansion, RedstoneArsenal, RArm, EnderIO@[1.7.10-2.1.3.243,), BuildCraft|Core@[6.4.15,7.0.0),[7.0.4,)]"
+SolarFlux,Solar Flux,1.7.10-0.8b,false,RESTART,"[ThermalExpansion, ThermalFoundation]"
+SpecialMobs,Special Mobs,3.1.1,false,RESTART,[]
+StevesFactoryManager,Steve's Factory Manager,A93,false,RESTART,[]
+ThaumicTinkerer,Thaumic Tinkerer,unspecified,false,RESTART,"[Forge@[10.12.1.1112,), Thaumcraft@[4.2.2.0,], IC2, ThaumicTinkererKami, Waila, ForgeMultipart, ComputerCraft]"
+ThermalDynamics,Thermal Dynamics,1.7.10R1.1.0,false,RESTART,"[ThermalFoundation@[1.7.10R1.2.0,)]"
+TiCTooltips,TiC Tooltips,1.2.4,false,RESTART,"[TConstruct@[1.7.10-1.8,), ExtraTiC, TSteelworks, Mariculture]"
+tradeboothmod,Trade Booth Mod,1.7.10.1,false,RESTART,[]
+modpacktweaks,Modpack Tweaks,1.0,false,RESTART,[]
+witchery,Witchery,0.24.1,false,RESTART,"[Forge@[10.13.2.1277,), MineFactoryReloaded, NotEnoughItems, Waila, ForgeMultipart, AWWayofTime]"
+Ztones,Ztones,1.7.10,false,RESTART,[]
+McMultipart,Minecraft Multipart Plugin,1.2.0.345,false,RESTART,[]
+aobd,Another One Bites The Dust,2.6.3,false,RESTART,"[Forge@[10.13.3.1360,), *]"
+IguanaTweaksTConstruct,Iguana Tinker Tweaks,1.7.10-2.1.5.140,false,RESTART,"[TConstruct@[1.7.10-1.8.3,), ForgeMultipart@[1.1.1.321,), *]"
+ForgeMicroblock,Forge Microblocks,1.2.0.345,false,RESTART,"[ForgeMultipart, *]"

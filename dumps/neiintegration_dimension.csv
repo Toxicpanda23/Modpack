@@ -1,0 +1,9 @@
+ID,Provider ID,Provider Class Name
+-42,-42,thaumcraft.common.lib.world.dim.WorldProviderOuter
+-39,-39,com.emoniph.witchery.dimension.WorldProviderMirror
+-38,-38,com.emoniph.witchery.dimension.WorldProviderTorment
+-37,-37,com.emoniph.witchery.dimension.WorldProviderDreamWorld
+-19,-19,thaumic.tinkerer.common.dim.WorldProviderBedrock
+-1,-1,biomesoplenty.common.world.WorldProviderBOPHell
+0,0,biomesoplenty.common.world.WorldProviderSurfaceBOP
+1,1,chylex.hee.world.WorldProviderHardcoreEnd
