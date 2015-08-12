@@ -24,8 +24,7 @@ You may raid other players on your own or in groups **under the following condit
  - you (or a member of your group) have not raided any other player within the past 24 hours.
 
 You may take:
- - any machines.
- - up to 50% of any items you find in any form of item storage (e.g. Chests, AE).
+ - anything
 
 You must:
  - leave (a sign/signs) at the player's base identifying your username (usernames for a group).
