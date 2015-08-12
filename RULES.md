@@ -22,6 +22,7 @@ You may raid other players on your own or in groups **under the following condit
  - you found the player's base fairly, without cheating.
  - you (or a member of your group) have not raided the player within the past 72 hours.
  - you (or a member of your group) have not raided any other player within the past 24 hours.
+ - the player must currently be online and must have been connected for over 1 minute.
 
 You may take:
  - anything
@@ -39,6 +40,11 @@ You may attack other players on your own or in groups **under the following cond
 
 You may take:
  - anything the player drops.
+ 
+Dimensions
+-----
+ - End: no attacking other players or building bases
+ - Nether: no attacking players within 8 blocks of 0,0
 
 Machines
 -----
