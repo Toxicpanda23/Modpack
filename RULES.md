@@ -43,7 +43,7 @@ You may take:
 
 Machines
 -----
-You may not setup machines to deliberately lag or slow the server. If there are machines causing the server to lag, they will be removed regardless of wheather it was deliberate. 
+You may not setup machines to deliberately lag or slow the server. If there are machines causing the server to lag, they will be removed regardless of whether it was deliberate. 
  
 World Border
 -----
