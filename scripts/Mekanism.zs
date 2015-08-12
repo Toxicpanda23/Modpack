@@ -1,1 +1,1 @@
-recipes.remove(<Mekanism:CardboardBox>)
+recipes.remove(<Mekanism:CardboardBox>);
