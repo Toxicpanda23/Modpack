@@ -34,8 +34,8 @@ Attacking players
 -----
 You may attack other players on your own or in groups **under the following conditions**:
  - you found the player fairly, without cheating.
- - you (or a member of your group) have not attacked the player within the past 72 hours.
- - you (or a member of your group) have not attacked any other player within the past 24 hours.
+ - you (or a member of your group) are not within 8 blocks of the players spawn point
+ - the player has not connected to the server within the past minute.
  - you (or a member of your group) or the player are not within the safe biome.
 
 You may take:
